@@ -1,4 +1,4 @@
-package com.hendisantika.dockerh2;
+package com.anderson.dockerh2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
